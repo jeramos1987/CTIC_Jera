@@ -1,1 +1,2 @@
 hola
+select * from clientes
